@@ -1,0 +1,5 @@
+discord.py>=2.3.2
+mcrcon>=0.5.2
+mcstatus>=11.1.0
+Flask>=3.0.0
+python-dotenv>=1.0.0

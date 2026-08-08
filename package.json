@@ -1,0 +1,25 @@
+{
+  "name": "bot-discord-mine",
+  "version": "1.0.0",
+  "description": "Простой проект Discord-бота на Python с интеграцией Minecraft-сервера через RCON и проверкой статуса сервера.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "minecraft": "node mineflayer_bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/den13gopas-cmd/Bot-discord-mine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/den13gopas-cmd/Bot-discord-mine/issues"
+  },
+  "homepage": "https://github.com/den13gopas-cmd/Bot-discord-mine#readme",
+  "dependencies": {
+    "mineflayer": "^4.37.1"
+  }
+}
